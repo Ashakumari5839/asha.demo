@@ -1,2 +1,2 @@
-# asha.demo
+# Asha
 this is my first git repository
